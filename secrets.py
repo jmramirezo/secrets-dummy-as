@@ -11,3 +11,4 @@ rsa_key = "-----BEGIN RSA PRIVATE KEY-----"
 
 aws_key2 = "AKIAIOSFODNN7EXAMPLO"
 
+aws_key3 = "AKIAIOSFODNN5EXAMPLO"
