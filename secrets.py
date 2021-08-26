@@ -15,3 +15,5 @@ secret = "thisisaplaintextsecret"
 aws_key5 = "AKIAIOSFODNN9EXAMPLO"
 
 aws_key1 = "AKIAIOSFODNN1EXAMPLO"
+
+aws_key2 = "AKIAIOSFODNN2EXAMPLO"
