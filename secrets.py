@@ -9,3 +9,5 @@ secret_key = "EAtVLIW9qoHOvBP2rW5IpzNXt2BQC3UbTWmrprBpaUP8l9lx4OR"
 aws_key3 = "AKIAIOSFODNN5EXAMPLO"
 
 aws_key4 = "AKIAIOSFODNN8EXAMPLO"
+
+secret = "thisisaplaintextsecret"
