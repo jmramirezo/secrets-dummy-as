@@ -13,3 +13,5 @@ aws_key4 = "AKIAIOSFODNN8EXAMPLO"
 secret = "thisisaplaintextsecret"
 
 aws_key5 = "AKIAIOSFODNN9EXAMPLO"
+
+aws_key1 = "AKIAIOSFODNN1EXAMPLO"
